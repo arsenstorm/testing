@@ -4,7 +4,7 @@
 
 To do this I must answer at least two discussions but another github user must mark it as the correct answer.
 
-## Method
+## Method 1
 
 1. Go to alternate account
 2. Create two discussions
@@ -13,3 +13,5 @@ To do this I must answer at least two discussions but another github user must m
 5. Go back to alternate account
 6. Mark both answers as correct
 7. Achievement should be unlocked on main account!
+
+This method was unsuccessful...
